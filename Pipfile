@@ -13,7 +13,6 @@ flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
 flask-heroku = "*"
 gunicorn = "*"
-procfile = "*"
 
 [requires]
 python_version = "3.7"
